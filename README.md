@@ -1,6 +1,6 @@
 ![Branding](assets/graphics/branding.png)
+*For demonstration purposes, CivicConnect utilizes free API tiers with inherent usage limitations. In a production environment, these services would be upgraded to commercial tiers to ensure uninterrupted access to all features showcased in the video demo.* 
 # CivicConnect - AI-Powered Political Engagement Platform
-
 ## Project Description
 CivicConnect is a comprehensive Flutter web application that revolutionizes how citizens engage with politics. By combining AI-powered news personalization with real-time legislative tracking, CivicConnect helps users stay informed about elections, bills, and political developments while learning their unique interests.
 

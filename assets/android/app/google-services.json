@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181471502632",
+    "project_id": "civicconnect-4012b",
+    "storage_bucket": "civicconnect-4012b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181471502632:android:8adba3e4aa51a83497b01d",
+        "android_client_info": {
+          "package_name": "com.example.assets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKR9KjiNahWtw0agYN1CSD6xlxw8C-2I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

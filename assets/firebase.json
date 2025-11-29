@@ -1,0 +1,65 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "civicconnect-4012b",
+          "appId": "1:181471502632:android:8adba3e4aa51a83497b01d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "civicconnect-4012b",
+          "appId": "1:181471502632:ios:825ef700f00ac04297b01d",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "civicconnect-4012b",
+          "appId": "1:181471502632:ios:a6c84fa5b8b5d29a97b01d",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "civicconnect-4012b",
+          "configurations": {
+            "android": "1:181471502632:android:8adba3e4aa51a83497b01d",
+            "ios": "1:181471502632:ios:825ef700f00ac04297b01d",
+            "macos": "1:181471502632:ios:a6c84fa5b8b5d29a97b01d",
+            "web": "1:181471502632:web:787947ff155e9aaf97b01d",
+            "windows": "1:181471502632:web:9691ddafad1963a997b01d"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "functions": {
+    "source": "functions",
+    "ignore": [
+      "node_modules",
+      ".git",
+      "firebase-debug.log",
+      "firebase-debug.*.log",
+      "*.local"
+    ]
+  }
+}

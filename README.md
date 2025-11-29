@@ -112,6 +112,7 @@ flutter run -d chrome
 # Deploy to production
 flutter build web --release
 firebase deploy
+```
 
 ## Challenges & Solutions
 
